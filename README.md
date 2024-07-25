@@ -2,7 +2,7 @@
 
 ## Impact of Maternal Education on Child Malaria Rates. 
 
-## HDSC Spring 24 Premium Project
+## HDSC Spring 24 Premier Project
 
 ## Team: Model Monitor
 
