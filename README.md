@@ -6,7 +6,7 @@
 
 ## Team: Model Monitor
 
-Malaria is a major threat to public health around the world, but also, in theory, one of the most straightforward to address. Our studies have shown that the prevalence of malaria in children of mothers with no education was higher than children of educated mothers. We saw that maternal education has a direct and indirect influence on the child malaria rates. Basic education such as teaching mothers the importance of using treated malaria nets and also the importance of seeking treatment when the child develops a fever will do great justice to reducing malaria rates in under five children. 
+Malaria is a major threat to public health around the world but also, in theory, one of the most straightforward to address. This study has shown that the prevalence of malaria in children of mothers with no education is higher than in children of educated mothers. Maternal education has a direct and indirect influence on child malaria rates. Basic education, such as teaching mothers the importance of using treated malaria nets and also the importance of seeking treatment when the child develops a fever, will do great justice to reducing malaria rates in under five children. 
 
 
 ## Aim and Objectives 
